@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Limelight-Dead-as-Disco-Modding/Limelight/main/Assets/README/limelight-logo.png" alt="Limelight logo" width="190">
+  <img src="assets/limelight-logo.png" alt="Limelight logo" width="190">
 </p>
 
 <h1 align="center">LIMELIGHT</h1>
@@ -31,7 +31,7 @@ running, build a custom arena or help us experiment with multiplayer, there is
 now a place for it under Limelight.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Limelight-Dead-as-Disco-Modding/Limelight/main/Assets/README/LimelightFamily.png" alt="The Limelight family of Dead as Disco modding tools" width="100%">
+  <img src="assets/LimelightFamily.png" alt="The Limelight family of Dead as Disco modding tools" width="100%">
   <br>
   <em>One family, several increasingly questionable ideas.</em>
 </p>
